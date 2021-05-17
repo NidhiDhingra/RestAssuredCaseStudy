@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8828" started-at="2021-05-13T16:57:56 IST" finished-at="2021-05-13T16:58:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8828" started-at="2021-05-13T16:57:56 IST" finished-at="2021-05-13T16:58:05 IST">
+      <class name="Test.TestAPICaseStudy">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.TestAPICaseStudy@2d8f65a4]" name="setup" is-config="true" duration-ms="4183" started-at="2021-05-13T16:57:56 IST" finished-at="2021-05-13T16:58:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test.TestAPICaseStudy@2d8f65a4]" name="login" duration-ms="813" started-at="2021-05-13T16:58:00 IST" finished-at="2021-05-13T16:58:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="GetUser()[pri:1, instance:Test.TestAPICaseStudy@2d8f65a4]" name="GetUser" duration-ms="946" started-at="2021-05-13T16:58:01 IST" finished-at="2021-05-13T16:58:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUser -->
+        <test-method status="PASS" signature="AddUsers()[pri:2, instance:Test.TestAPICaseStudy@2d8f65a4]" name="AddUsers" duration-ms="1409" started-at="2021-05-13T16:58:02 IST" finished-at="2021-05-13T16:58:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUsers -->
+        <test-method status="PASS" signature="AddRewardPoints()[pri:3, instance:Test.TestAPICaseStudy@2d8f65a4]" name="AddRewardPoints" duration-ms="735" started-at="2021-05-13T16:58:03 IST" finished-at="2021-05-13T16:58:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRewardPoints -->
+        <test-method status="PASS" signature="Getlogout()[pri:5, instance:Test.TestAPICaseStudy@2d8f65a4]" name="Getlogout" duration-ms="688" started-at="2021-05-13T16:58:04 IST" finished-at="2021-05-13T16:58:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getlogout -->
+      </class> <!-- Test.TestAPICaseStudy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
